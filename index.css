@@ -75,6 +75,7 @@ height: 50px
     color: white;
     gap: 50px;
     margin-bottom: 20px;
+justify-content: flex-end;
 }
 
 .img-circle {
@@ -93,6 +94,7 @@ height: 50px
     display:flex;
     color: white;
     margin-bottom: auto;
+jutsity-content: flex-end;
 }
 
 .content > div {
