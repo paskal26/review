@@ -57,13 +57,13 @@ height: 50px
 @media screen and (max-width: 576px) {
     .container ul li a { font-size: 9px
 }
-.logo {width: 20px; height: 25px;
+.logo {width: 28px; height: 33px;
 }
 }
 
 .main-margin {
     color: white;
-    margin-left: 73px;
+    margin-left: 64px;
     padding: 10px;
     margin-bottom: 10px;
 }
