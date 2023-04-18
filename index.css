@@ -132,6 +132,7 @@ height: 50px
     flex-direction: column; 
     display:flex;
     color: white;
+    width: 200px;
 }
 
 .form-output {
