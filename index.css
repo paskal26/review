@@ -113,7 +113,9 @@ height: 50px
 .margin-form {
     margin: 7px;
     color: white;
-width: 10px;
+    width: 100px;
+height: 100px;
+size: 10;
 }
 
 .titik{
