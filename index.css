@@ -70,7 +70,7 @@ height: 50px
 
 .facilities {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-left: 73px;
     color: white;
     gap: 50px;
